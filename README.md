@@ -23,6 +23,7 @@
 ### Statistics
 #### English
 * SANS Security Awareness Report ([2018](https://www.sans.org/security-awareness-training/reports/2018-security-awareness-report), [2017](https://www.sans.org/security-awareness-training/reports/2017-security-awareness-report), [2016](https://www.sans.org/security-awareness-training/reports/2016-security-awareness-report))
+* ISACA State of CyberSecurity [2018]
 
 #### German
 
@@ -82,6 +83,22 @@ SETA (Security Education and Training Awareness)
 ISAT (Information Security Training)
 User Awareness
 
+
+### Companys offering Computer Based Trainings (extracted from Gartners Magic Quadrant Analysis (November 2018))
+[proofpoint](https://www.proofpoint.com/de/products/phishing-simulation-security-awareness)(de)
+[knowbe4]
+[cofense]
+[mediaPRO]
+[InfoSec Institute](https://www.infosecinstitute.com/securityiq/)
+[Global Learning Systems]
+[SANS Institute](https://www.sans.org/security-awareness-training)
+[Terranova]
+[Inspired Elearning]
+[Barracuda (PhishLine)]
+[Security Innovation]
+[Jungle Map]
+[Sophos]
+
 ### partially public Campaings or Training Programs
 * [Southern Methodist University - Campaign](https://blog.smu.edu) (EN)
 * [Technical University Munich TUM](https://www.it.tum.de/it-sicherheit/sensibilisierungs-kampagne/) (DE)
@@ -139,8 +156,8 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 * [heise.de IX](https://www.heise.de/ix/meldung/iX-Info-Hub-fuer-Security-Awareness-Ressourcen-Update-30-01-18-3904009.html)(DE)
 
 ## Indexes of Privacy Enhaning Technologies
-* https://www.botfrei.de/de/index.html (DE)
-* kuketz blog (DE)
+* [botfrei.de](https://www.botfrei.de/de/index.html) (DE)
+* [kuketz blog](https://www.kuketz-blog.de/) (DE)
 
 ## Projects to watch
 https://github.com/pedrowilkens/nophish/#install
