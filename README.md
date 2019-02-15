@@ -1,18 +1,18 @@
 # Security Awareness & Education Materials
-# Usable Security
+The intention of this Repository is to quickly find Information or publicly available materials about Security Awareness in general.
+The List is designed for people which are interested in educate people or get information on "How other people educate employees".
 
-1. Network security
-2. Software security
-3. Physical security
-4. Hardware hacking
-5. Social engineering
-6. Psycology
+As ational or international Standards it is required to educate employees by law.
 
-## Identity Management (where do you have to enter your correct Data)
+## Resources / Guidelines for Security Educational Programs
+* [BSI IT Grundschutz ORP 2016](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzKompendium/bausteine/ORP/ORP_3_Sensibilisierung_und_Schulung.html) (DE)
+* [PCI DSS Oktober 2014  - Best Practises for Implementing a Security Awareness Program](https://www.pcisecuritystandards.org/documents/PCI_DSS_V1.0_Best_Practices_for_Implementing_Security_Awareness_Program.pdf) (EN)
+* [NIST SP800-50 2003](https://csrc.nist.gov/publications/detail/sp/800-50/final) (EN)
 
-## Contents
+
 
 ### Physical Security
+
 ### Social Engineering
 * [Awesome Social Engineering list](https://github.com/v2-dev/awesome-social-engineering)
 
@@ -21,24 +21,20 @@
 
 
 ### Statistics
-#### English
 * SANS Security Awareness Report ([2018](https://www.sans.org/security-awareness-training/reports/2018-security-awareness-report), [2017](https://www.sans.org/security-awareness-training/reports/2017-security-awareness-report), [2016](https://www.sans.org/security-awareness-training/reports/2016-security-awareness-report))
-* ISACA State of CyberSecurity [2018]
-
-#### German
+* ISACA State of CyberSecurity ([2018](https://cybersecurity.isaca.org/state-of-cybersecurity))
+* [visualization of the Worlds biggest data Breaches or Hacks](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks)
+(sometimes a "Registration ;) is required")
 
 ### Privacy Enhancing Tools
 
 
-
-## Context based Awareness
 ## Materials
 ### Videos
 
 ### Games
 #### Identity Theft
 ####
-
 
 ### Research Papers
 ### Books
@@ -50,54 +46,56 @@
 |[King Phisher - Phishing Campaign](https://github.com/securestate)|(EN)|  (OpenSource)|
 |[Lucy - Simulation, Elearning & Reporting Solution](https://www.lucysecurity.com/)|(EN)|(commercial/community Edition)|
 
-## Phishing <Fassetten>
-### Email
-https://phishingquiz.withgoogle.com/
-### Phone
-### Door
-
 ## Apps
 * Android Umbrella - Android (Play Store & Fdroid Repository)
 * NoPhish - Android - KIT(Play Store)
 
-## Context Children/Parents/Teacher
+# Context based Awareness Information by Group
+## Context Children/Parents/Teacher/Basic Users
 * [CyberSecurity Activity Kit by (Knowbe4)](https://www.knowbe4.com/cybersecurity-activity-kit) (EN)
 * Chaos macht Schule
 * [CyberSecurity - Infographics & Publications](https://cybersecuritymonth.eu/references/partners-resources/resources#c7=effective&reversed=on&b_start=0) (Multiple Languages)
 * [Better Internet for Kids - Videos & Infographics](https://www.betterinternetforkids.eu/web/portal/resources) (Multiple Languages)
 * [Informations Flyer & Media by saferinternet.at](https://www.saferinternet.at/services/broschuerenservice/) (DE)
 
+## Context Service Desk / Hotline / Reception
+
 ## Context Programmers
 * https://snyk.io/blog/ten-git-hub-security-best-practices/
 * owasp
 
-## Self Studies
+## Self Studies or Practises
 * https://www.allianz-fuer-cybersicherheit.de/ACS/DE/Informationspool/Mediathek/Video/video.html;jsessionid=0E89EB7022862E3442E46A3DC9EE5B90.1_cid360 (DE)
 * https://secuso.aifb.kit.edu/642.php
 * https://iatraining.disa.mil/eta/cyber-awareness-challenge/launchPage.htm
-
-## Security Products
+*  https://phishingquiz.withgoogle.com/
 
 ## Company Campaings
-SETA (Security Education and Training Awareness)
-ISAT (Information Security Training)
-User Awareness
+In literature most of the time people talk about "Security-Awareness" while using Names like
+
+* Awareness Programs
+* SETA (Security Education and Training Awareness)
+* ISAT (Information Security Training)
+* User Awareness
+* Awareness Training
+
+for the same meaning. These terms should be considered in further researches.
 
 
 ### Companys offering Computer Based Trainings (extracted from Gartners Magic Quadrant Analysis (November 2018))
-[proofpoint](https://www.proofpoint.com/de/products/phishing-simulation-security-awareness)(de)
-[knowbe4]
-[cofense]
-[mediaPRO]
-[InfoSec Institute](https://www.infosecinstitute.com/securityiq/)
-[Global Learning Systems]
-[SANS Institute](https://www.sans.org/security-awareness-training)
-[Terranova]
-[Inspired Elearning]
-[Barracuda (PhishLine)]
-[Security Innovation]
-[Jungle Map]
-[Sophos]
+* [proofpoint](https://www.proofpoint.com/de/products/phishing-simulation-security-awareness)(de)
+* [knowbe4](#)
+* [cofense](#)
+* [mediaPRO](#)
+* [InfoSec Institute](https://www.infosecinstitute.com/securityiq/)
+* [Global Learning Systems](#)
+* [SANS Institute](https://www.sans.org/security-awareness-training)
+* [Terranova](#)
+* [Inspired Elearning](#)
+* [Barracuda (PhishLine)](#)
+* [Security Innovation](#)
+* [Jungle Map](#)
+* [Sophos](#)
 
 ### partially public Campaings or Training Programs
 * [Southern Methodist University - Campaign](https://blog.smu.edu) (EN)
@@ -114,18 +112,12 @@ User Awareness
 * [INFOSEC Institute - Posters](https://resources.infosecinstitute.com/category/enterprise/securityawareness/security-awareness-training/top-20-security-awareness-posters-with-messages-that-stick/) (EN)
 
 
-### Newsletters (for Campaing Manager)
+### Newsletters (for Campaingn Manager)
 * [SANS OUCH! Newsletter](https://www.sans.org/security-awareness-training/ouch-newsletter) (EN)
-*
 
 ## RSS Feeds
 * [security securitymagazine](https://www.securitymagazine.com/rss/topic/2614-security-education-training) (EN)
 * [SANS Security Awareness Tip of the Day](https://www.sans.org/tip-of-the-day/rss) (EN)
-
-### Resources / Guidelines for Security Educational Programs
-* [BSI IT Grundschutz ORP 2016](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzKompendium/bausteine/ORP/ORP_3_Sensibilisierung_und_Schulung.html) (DE)
-* [PCI DSS Oktober 2014  - Best Practises for Implementing a Security Awareness Program](https://www.pcisecuritystandards.org/documents/PCI_DSS_V1.0_Best_Practices_for_Implementing_Security_Awareness_Program.pdf) (EN)
-* [NIST SP800-50 2003](https://csrc.nist.gov/publications/detail/sp/800-50/final) (EN)
 
 
 ## Open Access Journals
@@ -154,6 +146,24 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 # Hubs or Index Pages about Security Awareness & Ressources
 * [NIST Computer Security Resource Center](https://csrc.nist.gov/Topics/Security-and-Privacy/security-programs-and-operations/awareness-training-education) (EN)
 * [heise.de IX](https://www.heise.de/ix/meldung/iX-Info-Hub-fuer-Security-Awareness-Ressourcen-Update-30-01-18-3904009.html)(DE)
+
+
+## Podcasts
+* Rethink the Human Factor (Information Security, Awareness, Behaviour & Culture)
+  * [Homepage](http://rethinkingthehumanfactor.com)
+  * [RSS](http://rethinkingthehumanfactor.libsyn.com/rss)
+* Social Engineering (social-engineer.com)
+  * [Homepage](https://www.social-engineer.org/)
+  * [RSS](https://www.social-engineer.org/category/podcast/feed/)
+
+# Usable Security
+1. Network security
+2. Software security
+3. Physical security
+4. Hardware hacking
+5. Social engineering
+6. Psycology
+## Contents
 
 ## Indexes of Privacy Enhaning Technologies
 * [botfrei.de](https://www.botfrei.de/de/index.html) (DE)
