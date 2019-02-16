@@ -50,7 +50,7 @@ The List is designed for people which are interested in educating people or get 
 ## Tools
 |Name| Language | Licenses|
 |---|:-------:|---|
-|[Social Engineering Framework (Attack preparation and generation framework)](https://github.com/trustedsec/social-engineer-toolkit)|(EN)|(OpenSource)|
+|[Social Engineering Toolkit - SET (Attack preparation and generation framework)](https://github.com/trustedsec/social-engineer-toolkit)|(EN)|(OpenSource)|
 |[Ghost Phisher (Phishing all in One Solution)](https://github.com/wi-fi-analyzer/ghost-phisher)|(EN)| (OpenSource)|
 |[King Phisher - Phishing Campaign](https://github.com/securestate)|(EN)|  (OpenSource)|
 |[Lucy - Phishing Simulation, Elearning & Reporting Solution](https://www.lucysecurity.com/)|(EN)|(commercial/community Edition)|
@@ -65,7 +65,11 @@ The List is designed for people which are interested in educating people or get 
 * [Training Materials, Flyer, Quizzes](https://secuso.aifb.kit.edu/642.php)(DE)
 
 ### Context Service Desk / Hotline / Reception
+// Todo
+
 ### Context Manager and Public Relations
+// Todo
+
 ### Context Programmers
 * [Github - Best Practises](https://snyk.io/blog/ten-git-hub-security-best-practices/)
 * [Open Web Application Security Project OWASP](https://www.owasp.org)
@@ -76,11 +80,10 @@ The List is designed for people which are interested in educating people or get 
 * Security Principle Training - Materials
 
 ## Self Studies or Practises
-* [ - Alliance for CyberSecurity - Germany](https://www.allianz-fuer-cybersicherheit.de/ACS/DE/Informationspool/Mediathek/Video/video.html;jsessionid=0E89EB7022862E3442E46A3DC9EE5B90.1_cid360) (DE)
-* [] https://secuso.aifb.kit.edu/642.php
-* [] https://iatraining.disa.mil/eta/cyber-awareness-challenge/launchPage.htm (EN)
+* [Cyber Awareness Challenge 2019 - Defense Information Systems Agency](https://iatraining.disa.mil/eta/cyber-awareness-challenge/launchPage.htm)(EN)
 * [Phishing Quiz - google.com](https://phishingquiz.withgoogle.com/)(Multiple Languages)
-* [Training Materials, Flyer, Quizzes](https://secuso.aifb.kit.edu/642.php)(DE)
+* [Training Materials, Flyer, Quizzes - Secuso Karlsruher Institute of Technology](https://secuso.aifb.kit.edu/642.php)(DE)
+* [Alliance for CyberSecurity - Germany](https://www.allianz-fuer-cybersicherheit.de/ACS/DE/Informationspool/Mediathek/Video/video.html;jsessionid=0E89EB7022862E3442E46A3DC9EE5B90.1_cid360) (DE)
 
 ## Company Campaings
 In literature most of the time people talk about "Security-Awareness" while using Names like
@@ -94,20 +97,20 @@ In literature most of the time people talk about "Security-Awareness" while usin
 for the same meaning. These terms should be considered in further researches.
 
 
-### Companys offering Computer Based Trainings (extracted from Gartners Magic Quadrant Analysis (November 2018))
-* [proofpoint](https://www.proofpoint.com/de/products/phishing-simulation-security-awareness)(Multi Language)
-* [knowbe4](#)
-* [cofense](#)
-* [mediaPRO](#)
+### Companys offering Computer Based Trainings (CBT) (extracted from Gartners Magic Quadrant Analysis (November 2018))
+* [proofpoint](https://www.proofpoint.com/de/products/phishing-simulation-security-awareness)(Multiple Language)
+* [knowbe4](https://www.knowbe4.com/)
+* [cofense](https://cofense.com/online-security-awareness-training/)
+* [mediaPRO](https://www.mediapro.com/products/general-security-awareness/)
 * [InfoSec Institute](https://www.infosecinstitute.com/securityiq/)
-* [Global Learning Systems](#)
+* [Global Learning Systems](https://globallearningsystems.com/)
 * [SANS Institute](https://www.sans.org/security-awareness-training)
-* [Terranova](#)
-* [Inspired Elearning](#)
-* [Barracuda (PhishLine)](#)
-* [Security Innovation](#)
-* [Jungle Map](#)
-* [Sophos](#)
+* [Terranova](https://terranovasecurity.com/)
+* [Inspired Elearning](https://inspiredelearning.com/security-awareness/)
+* [Barracuda (PhishLine)](https://www.barracuda.com/products/phishline)
+* [Security Innovation](https://www.securityinnovation.com/training)
+* [Jungle Map](https://www.junglemap.com/ciso)
+* [Sophos](https://www.sophos.com/en-us/products/phish-threat.aspx)(Multiple Languages)
 // Todo find German
 
 ### partially public Campaings or Training Programs
