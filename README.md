@@ -12,14 +12,10 @@ The List is designed for people which are interested in educating people or get 
     - [ ] Specialisation Context - Service Desk / Hotline / Reception Desk
     - [ ] Specialisation Context - Developer
     - [ ] Specialisation Context - Systems Engineer
-  - [ ]
-  - [ ]
-- [ ] Training Material
-  - [x] Apps Android
 - [x] Statistics
 - [ ] Usable Security (Privacy Enhancing Technology)
   - [ ] PET in enterprises
-- [ ] Sites which offer publicly available material
+- [x] Sites which offer publicly available material
 - [x] Overview of Companies offering Security Awareness Elearning Programs
 - [x] fast access to different Open Access library search engines (to fasten up future research) --> Chapter Research
 - [ ] Honorable Papers
@@ -29,13 +25,6 @@ The List is designed for people which are interested in educating people or get 
 - [ ] List of Books
 - [ ] Why Security Awareness fail
 - [ ] Psycology - Behavioural Change
-
-# Usable Security
-1. Network security
-2. Software security
-3. Physical security
-4. Hardware hacking
-## Contents
 
 # Training/Informational Material
 ## Apps
@@ -97,7 +86,7 @@ In literature most of the time people talk about "Security-Awareness" while usin
 for the same meaning. These terms should be considered in further researches.
 
 
-### Companys offering Computer Based Trainings (CBT) (extracted from Gartners Magic Quadrant Analysis (November 2018))
+### Companys offering Computer Based Trainings (CBT) (extracted from Gartners Magic Quadrant Analysis (November 2018))[Magic Quadrant Security Awareness - Gartner (Download Provider Know4be)](https://info.knowbe4.com/gartner-magic-quadrant-security-awareness-cbt)
 * [proofpoint](https://www.proofpoint.com/de/products/phishing-simulation-security-awareness)(Multiple Language)
 * [knowbe4](https://www.knowbe4.com/)
 * [cofense](https://cofense.com/online-security-awareness-training/)
@@ -161,10 +150,10 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 
 # Research
 ## Statistics
-* SANS Security Awareness Report ([2018](https://www.sans.org/security-awareness-training/reports/2018-security-awareness-report), [2017](https://www.sans.org/security-awareness-training/reports/2017-security-awareness-report), [2016](https://www.sans.org/security-awareness-training/reports/2016-security-awareness-report))
-* ISACA State of CyberSecurity ([2018](https://cybersecurity.isaca.org/state-of-cybersecurity))
+* Security Awareness Report - SANS ([2018](https://www.sans.org/security-awareness-training/reports/2018-security-awareness-report), [2017](https://www.sans.org/security-awareness-training/reports/2017-security-awareness-report), [2016](https://www.sans.org/security-awareness-training/reports/2016-security-awareness-report))
+* State of CyberSecurity - ISACA ([2018](https://cybersecurity.isaca.org/state-of-cybersecurity))
 * [visualization of the Worlds biggest data Breaches or Hacks](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks)
-* Gartner Magic Quadrant Security Awareness []
+* [State of the Phishing Report - Wombat Security](https://www.wombatsecurity.com/state-of-the-phish)
 
 ## Open Access Libraries
 * [arXiv.org](https://arxiv.org) (EN)
@@ -198,7 +187,7 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
   * [Searchterm "Security Awareness"](https://infosec-conferences.com/?s=Security%20Awareness&is_v=1)
   * [Searchterm "Security Education"](https://infosec-conferences.com/?s=Security%20Education&is_v=1)
 
-## Projects to watch
+# Projects to watch
 * [https://github.com/pedrowilkens/nophish/#install](https://github.com/pedrowilkens/nophish/#install) <-- potentially PET
 * https://securityawareness.usalearning.gov/
 * https://niccs.us-cert.gov/
@@ -208,7 +197,16 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 * [Phish Kit Collection](https://github.com/duo-labs/phish-collect)
 * [Github - Projects Tagged with Phishing](https://github.com/topics/phishing)
 
+# List of Books
+// Todo
 
+
+# Usable Security
+// Todo
+1. Network security
+2. Software security
+3. Physical security
+4. Hardware hacking
 
 # Privacy Enhancing Technologies
 // Todo
@@ -220,12 +218,12 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 // Todo find english
 
 
-## Attack Vectors
-### Social Engineering
+# Attack Vectors
+## Social Engineering
 * [Awesome Social Engineering list](https://github.com/v2-dev/awesome-social-engineering)
 
-### Physical Security
+## Physical Security
 // Todo
 
-### Information Leakage
+## Information Leakage
 // Todo
