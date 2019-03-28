@@ -169,6 +169,10 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
   * [SearchTerm "Security Awareness"](https://www.plos.org/search?q=%22Security+Awareness%22)
   * [SearchTerm "Security Education"](https://www.plos.org/search?q=%22Security+Education%22)
 
+## Libraries (Registration required for Viewing)
+* [academia.edu](https://www.academia.edu/) (EN)
+  * [Documents containing Security Awareness](https://www.academia.edu/Documents/in/Security_Awareness)
+
 ## Open Access Journals or Indexes of Journals on Security
 * [Oxford Academic - Science and Mathematics](https://academic.oup.com/journals/pages/science_and_mathematics)
 * [Hindawi - Index](https://www.hindawi.com/journals/scn/)
@@ -198,7 +202,12 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 * [Github - Projects Tagged with Phishing](https://github.com/topics/phishing)
 
 # List of Books
-// Todo
+| Name | ISBN  | Links| Tags | Type |
+|---|:-------:|---:|---:| ---:|
+| |||||
+|rethinking the human factor|[978-1999695514]|[Amazon](https://www.amazon.de/Effective-Physical-Security-Lawrence-Fennelly-ebook)| Human Factor, Security Awareness| Abstract|
+|Effective Physical Security: Fifth Edition | 978-0128044629 | [Reserchgate](https://www.researchgate.net/publication/319253656_Effective_Physical_Security_Fifth_Edition); [Amazon](https://www.amazon.de/Effective-Physical-Security-Lawrence-Fennelly-ebook)| Physical Security | Practical |
+(Amazon Link)
 
 
 # Usable Security
@@ -212,10 +221,21 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 // Todo
 * [Github SecUSo - Karlsruher Institute of Technology](https://github.com/SecUSo)
 
-### Indexes on Privacy Enhaning Technologies
+## Indexes on Privacy Enhaning Technologies
 * [botfrei.de](https://www.botfrei.de/de/index.html) (DE)
 * [kuketz blog](https://www.kuketz-blog.de/) (DE)
 // Todo find english
+
+## Privacy Enhaning Technologies - Enterprises
+### Firefox
+* [Firefox for enterprise (Index) - Official Docs](https://support.mozilla.org/en-US/products/firefox-enterprise)
+* [Deployment of Firefox with Extensions - Official Docs](https://support.mozilla.org/en-US/kb/deploying-firefox-with-extensions)
+* [Group Policies - Official Docs](https://support.mozilla.org/en-US/kb/customizing-firefox-using-group-policy-windows)
+
+### Chrome
+* [Chrome for enterprise (Index) - Official Docs](https://cloud.google.com/chrome-enterprise/browser/download/)
+* [Deployment Guide & Group Policies - Official Docs](https://support.google.com/chrome/a/answer/3115278)
+  * [Tutorial - woshub.com](http://woshub.com/how-to-configure-google-chrome-via-group-policies/)
 
 
 # Attack Vectors
@@ -223,7 +243,7 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 * [Awesome Social Engineering list](https://github.com/v2-dev/awesome-social-engineering)
 
 ## Physical Security
-// Todo
+* [Effective Physical Security: Fifth Edition](https://www.researchgate.net/publication/319253656_Effective_Physical_Security_Fifth_Edition)
 
 ## Information Leakage
 // Todo
