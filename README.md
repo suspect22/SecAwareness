@@ -116,6 +116,7 @@ for the same meaning. These terms should be considered in further researches.
 * [Federal Information Systems Security Educators Association - Archive Content Presentations, Posters, Research Papers](https://csrc.nist.gov/projects/federal-info-systems-security-educators-assoc/conferences/archived-conference) (EN)
 * [thesecurityawarenesscompany.com - Posters, Videos, Documents, etc.](https://free.thesecurityawarenesscompany.com/) (EN)
 * [INFOSEC Institute - Posters](https://resources.infosecinstitute.com/category/enterprise/securityawareness/security-awareness-training/top-20-security-awareness-posters-with-messages-that-stick/) (EN)
+* [ENISA - European Union Agency for Network and Information Security](https://www.enisa.europa.eu/media/multimedia/material)(EN/DE)
 
 ### Newsletters (for Campaingn Manager)
 * [OUCH! Newsletter - SANS](https://www.sans.org/security-awareness-training/ouch-newsletter) (EN)
@@ -205,8 +206,8 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 | Name | ISBN  | Links| Tags | Type |
 |---|:-------:|---:|---:| ---:|
 | |||||
-|rethinking the human factor|[978-1999695514]|[Amazon](https://www.amazon.de/Effective-Physical-Security-Lawrence-Fennelly-ebook)| Human Factor, Security Awareness| Abstract|
-|Effective Physical Security: Fifth Edition | 978-0128044629 | [Reserchgate](https://www.researchgate.net/publication/319253656_Effective_Physical_Security_Fifth_Edition); [Amazon](https://www.amazon.de/Effective-Physical-Security-Lawrence-Fennelly-ebook)| Physical Security | Practical |
+|rethinking the human factor (EN)|[978-1999695514]|[Amazon](https://www.amazon.de/Effective-Physical-Security-Lawrence-Fennelly-ebook)| Human Factor, Security Awareness| Abstract|
+|Effective Physical Security: Fifth Edition (EN) | 978-0128044629 | [Reserchgate](https://www.researchgate.net/publication/319253656_Effective_Physical_Security_Fifth_Edition); [Amazon](https://www.amazon.de/Effective-Physical-Security-Lawrence-Fennelly-ebook)| Physical Security | Practical |
 (Amazon Link)
 
 
