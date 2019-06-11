@@ -155,6 +155,7 @@ https://securityawareness.usalearning.gov/cybersecurity/index.htm
 * State of CyberSecurity - ISACA ([2018](https://cybersecurity.isaca.org/state-of-cybersecurity))
 * [visualization of the Worlds biggest data Breaches or Hacks](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks)
 * [State of the Phishing Report - Wombat Security](https://www.wombatsecurity.com/state-of-the-phish)
+* [Data Breach Investigations Report - Verizon] [2019](https://enterprise.verizon.com/resources/reports/dbir/) [2018](https://enterprise.verizon.com/resources/reports/DBIR_2018_Report.pdf) [2017](https://enterprise.verizon.com/resources/reports/2017_dbir.pdf)
 
 ## Open Access Libraries
 * [arXiv.org](https://arxiv.org) (EN)
